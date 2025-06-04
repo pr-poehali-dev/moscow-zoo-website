@@ -49,7 +49,7 @@ const ElephantShowcase = () => {
         <div className="grid lg:grid-cols-2 gap-8 mb-12">
           <div className="relative rounded-2xl overflow-hidden shadow-xl">
             <img
-              src="https://images.unsplash.com/photo-1551969014-7d2c4cddf0b6?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80"
+              src="https://images.unsplash.com/photo-1564760055775-d63b17a55c44?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80"
               alt="Африканские слоны"
               className="w-full h-96 object-cover"
             />
