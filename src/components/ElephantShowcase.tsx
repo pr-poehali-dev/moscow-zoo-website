@@ -51,7 +51,7 @@ const ElephantShowcase = () => {
             <img
               src="https://images.unsplash.com/photo-1564760055775-d63b17a55c44?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80"
               alt="Африканские слоны"
-              className="w-full h-96 object-cover"
+              className="w-full h-96 object-cover rounded-lg"
             />
             <div className="absolute bottom-4 left-4 right-4">
               <Card className="bg-white/95 backdrop-blur">
