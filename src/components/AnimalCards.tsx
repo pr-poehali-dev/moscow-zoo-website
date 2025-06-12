@@ -55,6 +55,14 @@ const animals = [
     description: "Малая панда — милейшее создание с пушистым хвостом.",
     zone: "Азия",
   },
+  {
+    name: "Леопард",
+    image:
+      "https://images.unsplash.com/photo-1551969014-7d2c4cddf0b6?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=80",
+    status: "Уязвимый вид",
+    description: "Мастер маскировки и самый адаптивный из больших кошек.",
+    zone: "Африка",
+  },
 ];
 
 const AnimalCards = () => {
